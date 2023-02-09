@@ -1,0 +1,11 @@
+id: 3755ac1e0b8a4da6bbb46a209dab4a4c
+annotation_type: index
+revision: '00001'
+annotations:
+  67886b6d67d9447a8ec4d2f8dd064ee1:
+    base: FD0E.txt
+    Chapters:
+    - title: Kṣudrakavastu
+      span:
+        start: 0
+        end: 26795

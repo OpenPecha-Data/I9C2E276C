@@ -1,0 +1,16 @@
+id: I9C2E276C
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:10:11.716782
+last_modified: 2023-02-10 00:10:11.716920
+source_metadata:
+  title: 'MSV 4,00: Kṣudrakavastu'
+  language: bo
+bases:
+  FD0E:
+    base_file: FD0E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
